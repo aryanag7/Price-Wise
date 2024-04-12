@@ -1,0 +1,68 @@
+
+body {
+    font-family: Arial, sans-serif;
+    /* background-color: #f5f5f5; Light gray background */
+    color: #323232; /* Dark text color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+h1{
+    text-align: center;
+    color: #2f4f4f;
+}
+.SearchContainer {
+background-color: #fff8e7; /* Light cream */
+padding: 20px;
+border-radius: 8px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow for the container */
+width: 400px;
+max-width: 90%;
+}
+
+.SearchForm {
+display: flex;
+flex-direction: column;
+}
+
+label {
+margin-bottom: 8px;
+}
+
+input[type="text"],
+input[type="number"],
+button {
+padding: 10px;
+margin-bottom: 16px;
+border: 1px solid #ccc;
+border-radius: 4px;
+}
+
+button {
+background-color: #4169e1; /* Blue button color */
+color: #fff;
+border: none;
+cursor: pointer;
+}
+
+button:hover {
+background-color: #0056b3; /* Darker blue on hover */
+}
+
+.Message {
+margin-top: 16px;
+font-weight: bold;
+color: green; /* Success message color */
+text-align: center;
+}
+.LoadingMessage{
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  align-items: center;
+}
+.Spinner{
+  color: #4169e1;
+}
