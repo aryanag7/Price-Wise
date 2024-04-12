@@ -24,7 +24,7 @@ Discord Bot:
 
 ## Important Note
 
-**Please Note:** Due to the resource-intensive nature of Puppeteer library, hosting this application online may be challenging or require specific requirements.
+**<span style="color:red">Please Note:</span>** Due to the resource-intensive nature of Puppeteer library, hosting this application online may be challenging or require specific requirements.
 
 
 ## Installation
