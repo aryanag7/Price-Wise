@@ -1,5 +1,7 @@
 
-# Price Wise
+<h1 align="center">
+ Price Wise
+</h1>
 
 Price Wise is a web application that allows users to track product prices on Amazon and receive email alerts when the price drops below a specified threshold.
 
@@ -11,12 +13,12 @@ Price Wise is a web application that allows users to track product prices on Ama
 
 
 ## Features
-#Web Application:
+Web Application:
 - Track prices of products on Amazon by providing product URLs and desired price thresholds.
 - Receive email notifications when the tracked product price drops below the specified threshold along with a product screenshot.
 - Simple and intuitive user interface for entering product details and setting price alerts.
 
-#Discord Bot:
+Discord Bot:
 - Interact with the Price Wise bot on Discord to track product prices using a specific command.
 - Use the !trackprice command followed by the product URL, desired price threshold, and email address to initiate price tracking.
 
@@ -91,7 +93,7 @@ Discord Bot Example: !trackprice & Bot Response
 
 - **Frontend:**
   - React (JavaScript library for building user interfaces)
-  - 
+    
 - **Backend:**
   - Node.js
   - Express.js
