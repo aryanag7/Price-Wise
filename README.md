@@ -22,6 +22,9 @@ Discord Bot:
 - Interact with the Price Wise bot on Discord to track product prices using a specific command.
 - Use the !trackprice command followed by the product URL, desired price threshold, and email address to initiate price tracking.
 
+## Important Note
+
+**Please Note:** Due to the resource-intensive nature of Puppeteer library, hosting this application online may be challenging or require specific requirements.
 
 
 ## Installation
